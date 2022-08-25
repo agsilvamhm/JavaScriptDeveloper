@@ -3,4 +3,4 @@ Curso: Bootcamp Formação JavaScript Developer, Plataforma: Digital Innovation 
 ![imagem](/Imagens/Logo_Bootcamp.webp)
 
 ## Módulo 1 - Primeiros passos com JavaScript
-### Variáveis e operadores
+### Aula 1 - Variáveis e operadores
