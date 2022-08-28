@@ -21,3 +21,4 @@
 
 ## Módulo 5 - Importação e exportação com javascript
 ### Aula 10- Desvendendo as funções 'gets' e 'print' dos desafios de código
+### Aula 11- Praticando os conceitos de importação e exportação
