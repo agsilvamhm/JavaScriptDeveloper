@@ -6,3 +6,5 @@
 ### Aula 1 - Variáveis e operadores
 ### Aula 2 - Condicionais
 ### Aula 3 - Exercícios de fixação
+
+## Módulo 2 - Conhecendo funções javascript
