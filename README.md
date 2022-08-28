@@ -5,3 +5,4 @@
 ## Módulo 1 - Primeiros passos com JavaScript
 ### Aula 1 - Variáveis e operadores
 ### Aula 2 - Condicionais
+### Aula 3 - Exercícios de fixação
