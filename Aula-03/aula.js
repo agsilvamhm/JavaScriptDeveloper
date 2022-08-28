@@ -29,13 +29,13 @@ if (imc < 18.5) {
 } */
 
 const preco = 100.0
-const formaPagamento = 'Debito'
+const formaPagamento = 4
 
-if (formaPagamento === 'Debito') {
+if (formaPagamento === 1) {
     console.log(`Preço a ser pago com 10% de desconto R$ ${(preco * 0.9).toFixed(2)}`)   
-} else if (formaPagamento === 'Dinheiro'){
+} else if (formaPagamento === 2){
     console.log(`Preço a ser pago com 15% de desconto R$ ${(preco * 0.85).toFixed(2)}`)   
-} else if (formaPagamento ==='DuasVezes') {
+} else if (formaPagamento === 3) {
     console.log(`Preço normal  R$ ${(preco).toFixed(2)}`)      
 } else {
     console.log(`Preço com acréscimo de 10% R$ ${(preco * 1.1).toFixed(2)}`)     
