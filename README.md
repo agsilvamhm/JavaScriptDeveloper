@@ -13,4 +13,4 @@
 
 ## Módulo 3 - Objetos e classes em javascript
 ### Aula 6 - Objetos e classes
-### Aula 7 - Prativando com objetos e classes
+### Aula 7 - Praticando com objetos e classes
