@@ -1,5 +1,5 @@
 # Formação JavaScript Developer
-## Curso: Bootcamp Formação JavaScript Developer, Plataforma: Digital Innovation One
+## Curso: Bootcamp Formação JavaScript Developer. Plataforma: Digital Innovation One
 ![imagem](/Imagens/Logo_Bootcamp.webp)
 
 ## Módulo 1 - Primeiros passos com javascript
@@ -14,3 +14,7 @@
 ## Módulo 3 - Objetos e classes em javascript
 ### Aula 6- Objetos e classes
 ### Aula 7- Praticando com objetos e classes
+
+## Módulo 4 - Arrays e estruturas de repetição em javascript
+### Aula 8- Arrays e estruturas de repetição
+### Aula 9- Praticando estruturas de repetição
