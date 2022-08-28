@@ -14,3 +14,6 @@
 ## Módulo 3 - Objetos e classes em javascript
 ### Aula 6- Objetos e classes
 ### Aula 7- Praticando com objetos e classes
+
+## Módulo 4 - Arrays e estruturas de repetição em javascript
+### Aula 8- Arryas e estruturas de repetição
