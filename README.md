@@ -12,4 +12,4 @@
 ### Aula 5 - Praticando com funções
 
 ## Módulo 3 - Objetos e classes em javascript
-### Aula 6 - Objetos
+### Aula 6 - Objetos e classes
