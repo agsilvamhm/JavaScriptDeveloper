@@ -8,3 +8,4 @@
 ### Aula 3 - Exercícios de fixação
 
 ## Módulo 2 - Conhecendo funções javascript
+### Aula 4 - Funções
