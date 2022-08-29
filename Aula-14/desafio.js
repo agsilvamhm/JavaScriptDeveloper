@@ -22,7 +22,7 @@ Exemplo:
 
 const { gets, print} = require('./funcoes-auxiliares')
 
-const salario = gets();
+/* const salario = gets();
 const beneficio = gets();
 
 if (salario < 1100.01){
@@ -31,4 +31,26 @@ if (salario < 1100.01){
     print(`Valor com desconto de 10% R$ ${((salario * 0.90)+ beneficio).toFixed(2)}`)
 } else {
     print(`Valor com desconto de 15% R$ ${((salario * 0.85)+ beneficio).toFixed(2)}`)  
+} */
+
+
+const valorSalario = parseFloat(gets());
+const valorBeneficios = parseFloat(gets());
+
+// TODO: utilizando as funções úteis abaixo, calcule e imprima a saída conforme o enunciado.
+
+function calcularPorcentagem(valor, percentual) {
+  return valor * (percentual / 100);
 }
+
+function pegarAliquota(salario) {
+  if (salario >= 0 && salario <= 1100) {
+    return 5;
+  } else if (salario >= 1100.01 && salario <= 2500.00) {
+    return 10;
+  } else {
+    return 15;
+  }
+}
+
+print(((valorSalario - calcularPorcentagem(valorSalario, pegarAliquota(valorSalario))) + valorBeneficios).toFixed(2))
