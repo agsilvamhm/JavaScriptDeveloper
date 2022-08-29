@@ -18,3 +18,7 @@
 ## Módulo 4 - Arrays e estruturas de repetição em javascript
 ### Aula 8- Arrays e estruturas de repetição
 ### Aula 9- Praticando estruturas de repetição
+
+## Módulo 5 - Importação e exportação com javascript
+### Aula 10- Desvendendo as funções 'gets' e 'print' dos desafios de código
+### Aula 11- Praticando os conceitos de importação e exportação
