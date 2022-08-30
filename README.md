@@ -27,3 +27,5 @@
 ### Aula 12- Desafio 1 
 ### Aula 13- Desafio 2 
 ### Aula 14- Desafio 3 
+
+## Módulo 7 - Introdução ao desenvolvimento WEB
