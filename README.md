@@ -41,6 +41,6 @@ Nesta aula foi instalado o (npm install -g http-server), para executar "http-ser
 Acesso ao site e colocando a biblioteca  https://cdnjs.com/libraries/normalize para ter a mesmas visão indenpendente de que navegador seja utilizado.
 ### Aula 21- Organizando o projeto
 ### Aula 22- Adicionando a font Roboto no projeto
-### Aula 23- Estilização incial
+### Aula 23- Estilização inicial
 ### Aula 24- Estilização da listagem Pokemon
 ### Aula 25- Adicionando a imagem do Pokemon
