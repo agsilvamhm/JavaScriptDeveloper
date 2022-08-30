@@ -35,4 +35,5 @@ Nesta aula foi instalado o (npm install -g http-server), para executar "http-ser
 ### Aula 17- Introdução ao HTML
 ### Aula 18- Introdução ao CSS
 ### Aula 19- Introdução ao javascript voltado para WEB
+## Módulo 8 - Configurações gerais do projeto
 
