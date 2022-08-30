@@ -43,3 +43,4 @@ Acesso ao site e colocando a biblioteca  https://cdnjs.com/libraries/normalize p
 ### Aula 22- Adicionando a font Roboto no projeto
 ### Aula 23- Estilização incial
 ### Aula 24- Estilização da listagem Pokemon
+### Aula 25- Adicionando a imagem do Pokemon
