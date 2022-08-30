@@ -38,4 +38,5 @@ Nesta aula foi instalado o (npm install -g http-server), para executar "http-ser
 
 ## Módulo 8 - Configurações gerais do projeto
 ### Aula 20- Adicinando normalize Css no projeto
+Acesso ao site e colocando a biblioteca  https://cdnjs.com/libraries/normalize para ter a mesmas visão indenpendente de que navegador seja utilizado.
 
