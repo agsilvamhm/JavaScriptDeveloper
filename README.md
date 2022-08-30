@@ -44,3 +44,4 @@ Acesso ao site e colocando a biblioteca  https://cdnjs.com/libraries/normalize p
 ### Aula 23- Estilização inicial
 ### Aula 24- Estilização da listagem Pokemon
 ### Aula 25- Adicionando a imagem do Pokemon
+### Aula 26- Adicionando os tipos dos Pokemons e finalizando o layout da imagem
