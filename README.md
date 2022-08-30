@@ -40,3 +40,4 @@ Nesta aula foi instalado o (npm install -g http-server), para executar "http-ser
 ### Aula 20- Adicinando normalize Css no projeto
 Acesso ao site e colocando a biblioteca  https://cdnjs.com/libraries/normalize para ter a mesmas visão indenpendente de que navegador seja utilizado.
 ### Aula 21- Organizando o projeto
+### Aula 22- Adicionando a font Roboto no projeto
