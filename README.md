@@ -52,3 +52,4 @@ Acesso ao site e colocando a biblioteca  https://cdnjs.com/libraries/normalize p
 ### Aula 29- Introdução a APIs
 Palavra chave para API, seria algo que está lhe servindo dados.
 ### Aula 30- Como funciona as requisições
+### Aula 31- URl Path e Method
