@@ -55,3 +55,4 @@ Palavra chave para API, seria algo que está lhe servindo dados.
 ### Aula 31- URl Path e Method
 ${IP}/${path = caminho de identificação do recurso}
 ### Aula 32- Path Params e Query String
+Tudo que vem após o ? é a query string
