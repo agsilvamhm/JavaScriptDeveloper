@@ -1,6 +1,6 @@
 # Formação JavaScript Developer
 ## Curso: Bootcamp Formação JavaScript Developer. Plataforma: Digital Innovation One
-![imagem](/Imagens/Logo_Bootcamp.webp)
+![imagem](/Pokedex/assents/Imagens/Logo_Bootcamp.webp)
 
 ## Módulo 1 - Primeiros passos com javascript
 ### Aula 1- Variáveis e operadores
@@ -45,3 +45,4 @@ Acesso ao site e colocando a biblioteca  https://cdnjs.com/libraries/normalize p
 ### Aula 24- Estilização da listagem Pokemon
 ### Aula 25- Adicionando a imagem do Pokemon
 ### Aula 26- Adicionando os tipos dos Pokemons e finalizando o layout da imagem
+### Aula 27- Tornando nosso layout responsivo
