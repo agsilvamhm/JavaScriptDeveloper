@@ -53,3 +53,4 @@ Acesso ao site e colocando a biblioteca  https://cdnjs.com/libraries/normalize p
 Palavra chave para API, seria algo que está lhe servindo dados.
 ### Aula 30- Como funciona as requisições
 ### Aula 31- URl Path e Method
+${IP}/${path = caminho de identificação do recurso}
