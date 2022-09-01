@@ -47,3 +47,5 @@ Acesso ao site e colocando a biblioteca  https://cdnjs.com/libraries/normalize p
 ### Aula 26- Adicionando os tipos dos Pokemons e finalizando o layout da imagem
 ### Aula 27- Tornando nosso layout responsivo
 ### Aula 28- Separando os estilos
+
+## Módulo 9 - Entendendo o funcionamento do protocolo HTTP
