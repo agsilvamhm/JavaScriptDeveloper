@@ -59,3 +59,4 @@ Tudo que vem após o ? é a query string
 como exemplo temos a URl https://pokeapi.co/api/v2/pokemon?offset=8&limit=4
 onde offset é como se fosse a paginação e o limit é a quantidade de dados retornadas.
 ### Aula 33- Headers
+### Aula 34- Body e Status Code
