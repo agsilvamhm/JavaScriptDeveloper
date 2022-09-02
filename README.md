@@ -60,3 +60,4 @@ como exemplo temos a URl https://pokeapi.co/api/v2/pokemon?offset=8&limit=4
 onde offset é como se fosse a paginação e o limit é a quantidade de dados retornadas.
 ### Aula 33- Headers
 ### Aula 34- Body e Status Code
+URL: , Request Method: e o Request Header, compõem uma requisição. O servidor vai processar e devolver Status code:, Response Header e o Response body.
