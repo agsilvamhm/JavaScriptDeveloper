@@ -62,3 +62,4 @@ onde offset é como se fosse a paginação e o limit é a quantidade de dados re
 ### Aula 34- Body e Status Code
 URL: , Request Method: e o Request Header, compõem uma requisição. O servidor vai processar e devolver Status code:, Response Header e o Response body.
 ### Aula 35- introdução ao consumo da PokeApi
+### Aula 36- Primeira requisição
