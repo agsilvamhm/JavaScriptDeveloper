@@ -35,5 +35,5 @@ for (let index = 0; index < entradas; index++) {
     }
 }
 
-print(`O maior número par é ${maiorPar}`)
-print(`O menor número impar é ${menorImpar}`)
+print(`Maior número par: ${maiorPar}`)
+print(`Menor número impar: ${menorImpar}`)
