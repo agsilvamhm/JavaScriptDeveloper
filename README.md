@@ -1,6 +1,6 @@
 # Formação JavaScript Developer
 ## Curso: Bootcamp Formação JavaScript Developer. Plataforma: Digital Innovation One
-![imagem](/Imagens/Logo_Bootcamp.webp)
+![imagem](/Pokedex/assets/Imagens/Logo_Bootcamp.webp)
 
 ## Módulo 1 - Primeiros passos com javascript
 ### Aula 1- Variáveis e operadores
@@ -45,3 +45,19 @@ Acesso ao site e colocando a biblioteca  https://cdnjs.com/libraries/normalize p
 ### Aula 24- Estilização da listagem Pokemon
 ### Aula 25- Adicionando a imagem do Pokemon
 ### Aula 26- Adicionando os tipos dos Pokemons e finalizando o layout da imagem
+### Aula 27- Tornando nosso layout responsivo
+### Aula 28- Separando os estilos
+
+## Módulo 9 - Entendendo o funcionamento do protocolo HTTP
+### Aula 29- Introdução a APIs
+Palavra chave para API, seria algo que está lhe servindo dados.
+### Aula 30- Como funciona as requisições
+### Aula 31- URl Path e Method
+${IP}/${path = caminho de identificação do recurso}
+### Aula 32- Path Params e Query String
+Tudo que vem após o ? é a query string
+como exemplo temos a URl https://pokeapi.co/api/v2/pokemon?offset=8&limit=4
+onde offset é como se fosse a paginação e o limit é a quantidade de dados retornadas.
+### Aula 33- Headers
+### Aula 34- Body e Status Code
+URL: , Request Method: e o Request Header, compõem uma requisição. O servidor vai processar e devolver Status code:, Response Header e o Response body.
