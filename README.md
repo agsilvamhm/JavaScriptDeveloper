@@ -63,3 +63,4 @@ onde offset é como se fosse a paginação e o limit é a quantidade de dados re
 URL: , Request Method: e o Request Header, compõem uma requisição. O servidor vai processar e devolver Status code:, Response Header e o Response body.
 ### Aula 35- introdução ao consumo da PokeApi
 ### Aula 36- Primeira requisição
+### Aula 37- Manipulando o resultado da requisição através de uma Promisse
