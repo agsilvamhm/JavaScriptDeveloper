@@ -77,3 +77,4 @@ A estrutura da promisse é semelhante a estrutura do try catch.
 ### Aula 40- Utilizando a função MAP para diminuir a verbosidade do nosso Código
 ### Aula 41- Revisando o nosso código e entendendo os próximos passos
 ### Aula 42- Manipulando múltiplas requisições em paralelo
+### Aula 42- Convertendo o modelo do pokeApi para nosso modelo
