@@ -78,3 +78,7 @@ A estrutura da promisse é semelhante a estrutura do try catch.
 ### Aula 41- Revisando o nosso código e entendendo os próximos passos
 ### Aula 42- Manipulando múltiplas requisições em paralelo
 ### Aula 43- Convertendo o modelo do pokeApi para nosso modelo
+### Aula 44- Adicionando os tipos de Pokemon dinamicamente
+### Aula 45- Adicionando o botão de paginação
+### Aula 46- Criando mecanismo de paginação
+### Aula 47- Criando mecanismo para limitar na primeira geração de Pokemon
