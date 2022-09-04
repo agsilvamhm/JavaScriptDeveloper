@@ -67,9 +67,9 @@ URL: , Request Method: e o Request Header, compõem uma requisição. O servidor
 Função normal  =  function(parâmetro) { corpo }  \
 Arrow Function = ((parâmetro) => { corpo }) e se tiver apenas uma linha ,  Arrow funciton = ((parâmetro) => corpo)
 
-Promisse()
-   .then() // Retorno da promisse se tiver sucesso.
-   .then() // Retorno do primeiro then ... (não é preciso mas pode ter N thens)
-   .catch()  // Caso ocorra um erro/falha.
+Promisse()  \
+   .then() // Retorno da promisse se tiver sucesso.  \
+   .then() // Retorno do primeiro then ... (não é preciso mas pode ter N thens)  \
+   .catch()  // Caso ocorra um erro/falha.  \
 A estrutura da promisse é semelhante a estrutura do try catch.
    
