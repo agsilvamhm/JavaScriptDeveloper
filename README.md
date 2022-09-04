@@ -64,7 +64,7 @@ URL: , Request Method: e o Request Header, compõem uma requisição. O servidor
 ### Aula 35- introdução ao consumo da PokeApi
 ### Aula 36- Primeira requisição
 ### Aula 37- Manipulando o resultado da requisição através de uma Promisse
-Função normal  =  function(parâmetro) { corpo }
+Função normal  =  function(parâmetro) { corpo }  \
 Arrow Function = ((parâmetro) => { corpo }) e se tiver apenas uma linha ,  Arrow funciton = ((parâmetro) => corpo)
 
 Promisse()
