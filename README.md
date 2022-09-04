@@ -61,3 +61,20 @@ onde offset é como se fosse a paginação e o limit é a quantidade de dados re
 ### Aula 33- Headers
 ### Aula 34- Body e Status Code
 URL: , Request Method: e o Request Header, compõem uma requisição. O servidor vai processar e devolver Status code:, Response Header e o Response body.
+### Aula 35- introdução ao consumo da PokeApi
+### Aula 36- Primeira requisição
+### Aula 37- Manipulando o resultado da requisição através de uma Promisse
+Função normal  =  function(parâmetro) { corpo }  \
+Arrow Function = ((parâmetro) => { corpo }) e se tiver apenas uma linha ,  Arrow funciton = ((parâmetro) => corpo)
+
+Promisse()  \
+   .then() // Retorno da promisse se tiver sucesso.  \
+   .then() // Retorno do primeiro then ... (não é preciso mas pode ter N thens)  \
+   .catch()  // Caso ocorra um erro/falha.  \
+A estrutura da promisse é semelhante a estrutura do try catch.
+### Aula 38- Transformando nossa lista de Pokemon em uma lista de Html
+### Aula 39- Separando o consumo da API da manipulação de HTML
+### Aula 40- Utilizando a função MAP para diminuir a verbosidade do nosso Código
+### Aula 41- Revisando o nosso código e entendendo os próximos passos
+### Aula 42- Manipulando múltiplas requisições em paralelo
+### Aula 43- Convertendo o modelo do pokeApi para nosso modelo
