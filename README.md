@@ -76,3 +76,4 @@ A estrutura da promisse é semelhante a estrutura do try catch.
 ### Aula 39- Separando o consumo da API da manipulação de HTML
 ### Aula 40- Utilizando a função MAP para diminuir a verbosidade do nosso Código
 ### Aula 41- Revisando o nosso código e entendendo os próximos passos
+### Aula 42- Manipulando múltiplas requisições em paralelo
