@@ -75,3 +75,4 @@ A estrutura da promisse é semelhante a estrutura do try catch.
 ### Aula 38- Transformando nossa lista de Pokemon em uma lista de Html
 ### Aula 39- Separando o consumo da API da manipulação de HTML
 ### Aula 40- Utilizando a função MAP para diminuir a verbosidade do nosso Código
+### Aula 41- Revisando o nosso código e entendendo os próximos passos
