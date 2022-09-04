@@ -82,3 +82,4 @@ A estrutura da promisse é semelhante a estrutura do try catch.
 ### Aula 45- Adicionando o botão de paginação
 ### Aula 46- Criando mecanismo de paginação
 ### Aula 47- Criando mecanismo para limitar na primeira geração de Pokemon
+![imagem](/Pokedex/assets/Imagens/Pokedex.png)
