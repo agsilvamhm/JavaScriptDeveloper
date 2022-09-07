@@ -86,3 +86,4 @@ A estrutura da promisse é semelhante a estrutura do try catch.
 ## Módulo 10- Variáveis e escopo
 ### Aula 48- Variáveis
 ### Aula 49- Hoisting
+### Aula 50- Escopos e diferenças entre Var, Let e Const
