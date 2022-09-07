@@ -87,3 +87,5 @@ A estrutura da promisse é semelhante a estrutura do try catch.
 ### Aula 48- Variáveis
 ### Aula 49- Hoisting
 ### Aula 50- Escopos e diferenças entre Var, Let e Const
+### Aula 51- Convenções de nomeclatura
+### Aula 52- Tipos de dados, Wrappers, Coerção de tipos, Boolean, Null e Undefined.
