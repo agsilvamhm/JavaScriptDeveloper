@@ -85,4 +85,4 @@ A estrutura da promisse é semelhante a estrutura do try catch.
 ![imagem](/Pokedex/assets/Imagens/Pokedex.PNG)
 ## Módulo 10- Variáveis e escopo
 ### Aula 48- Variáveis
-### Aula 49- Hosting
+### Aula 49- Hoisting
