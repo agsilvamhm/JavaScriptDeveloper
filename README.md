@@ -85,3 +85,9 @@ A estrutura da promisse é semelhante a estrutura do try catch.
 ![imagem](/Pokedex/assets/Imagens/Pokedex.PNG)
 ## Módulo 10- Variáveis e escopo
 ### Aula 48- Variáveis
+### Aula 49- Hoisting
+### Aula 50- Escopos e diferenças entre Var, Let e Const
+### Aula 51- Convenções de nomeclatura
+### Aula 52- Tipos de dados, Wrappers, Coerção de tipos, Boolean, Null e Undefined.
+### Aula 53- Tipos de dados, String, Numbers e Symbol
+### Aula 54- Objetos e métodos
