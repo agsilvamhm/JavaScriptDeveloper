@@ -90,4 +90,4 @@ A estrutura da promisse é semelhante a estrutura do try catch.
 ### Aula 51- Convenções de nomeclatura
 ### Aula 52- Tipos de dados, Wrappers, Coerção de tipos, Boolean, Null e Undefined.
 ### Aula 53- Tipos de dados, String, Numbers e Symbol
-### Aula 54- Ojetos e métodos
+### Aula 54- Objetos e métodos
