@@ -97,3 +97,6 @@ A estrutura da promisse é semelhante a estrutura do try catch.
 ### Aula 56- Ententendo sobrescrita e shadowing
 ### Aula 57- Formas de criação de objetos literais com protótipos
 ### Aula 58- Ententendo melhor o operador New e brincando com protótipos
+## Módulo 12- Funções
+### Aula 59- First Class Functions, Higher Orders Functions, Function Declarition e Function Expression
+### Aula 60- Declaração Explicita e Arrow Function
