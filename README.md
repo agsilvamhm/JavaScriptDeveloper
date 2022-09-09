@@ -95,3 +95,5 @@ A estrutura da promisse é semelhante a estrutura do try catch.
 ## Módulo 11- Orientação a protótipo
 ### Aula 55- Orientação a protótipos, funções contrutoras
 ### Aula 56- Ententendo sobrescrita e shadowing
+### Aula 57- Formas de criação de objetos literais com protótipos
+### Aula 58- Ententendo melhor o operador New e brincando com protótipos
