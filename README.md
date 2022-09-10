@@ -100,4 +100,6 @@ A estrutura da promisse é semelhante a estrutura do try catch.
 ## Módulo 12- Funções
 ### Aula 59- First Class Functions, Higher Orders Functions, Function Declarition e Function Expression
 ### Aula 60- Declaração Explicita e Arrow Function
-### Aula 61- Clausures ou fechamentos
+### Aula 61- Clousures ou fechamentos
+### Aula 62- Invocação Direta, Call, Apply e Operador New
+### Aula 63- Menção honrosa aos Callbacks
