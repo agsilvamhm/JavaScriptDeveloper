@@ -83,6 +83,7 @@ A estrutura da promisse é semelhante a estrutura do try catch.
 ### Aula 46- Criando mecanismo de paginação
 ### Aula 47- Criando mecanismo para limitar na primeira geração de Pokemon
 ![imagem](/Pokedex/assets/Imagens/Pokedex.PNG)
+![imagem](/Pokedex/assets/Imagens/Pokedex-detail.PNG)
 ## Módulo 10- Variáveis e escopo
 ### Aula 48- Variáveis
 ### Aula 49- Hoisting
@@ -91,3 +92,20 @@ A estrutura da promisse é semelhante a estrutura do try catch.
 ### Aula 52- Tipos de dados, Wrappers, Coerção de tipos, Boolean, Null e Undefined.
 ### Aula 53- Tipos de dados, String, Numbers e Symbol
 ### Aula 54- Objetos e métodos
+## Módulo 11- Orientação a protótipo
+### Aula 55- Orientação a protótipos, funções contrutoras
+### Aula 56- Ententendo sobrescrita e shadowing
+### Aula 57- Formas de criação de objetos literais com protótipos
+### Aula 58- Ententendo melhor o operador New e brincando com protótipos
+## Módulo 12- Funções
+### Aula 59- First Class Functions, Higher Orders Functions, Function Declarition e Function Expression
+### Aula 60- Declaração Explicita e Arrow Function
+### Aula 61- Clousures ou fechamentos
+### Aula 62- Invocação Direta, Call, Apply e Operador New
+### Aula 63- Menção honrosa aos Callbacks
+### Aula 64- Introdução a manipulação de listas
+### Aula 65- Foreach
+### Aula 66- Filter
+### Aula 67- Map
+### Aula 68- Reduce
+### Aula 68- Join e combinação de funções de manipulação
