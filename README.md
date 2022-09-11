@@ -103,3 +103,9 @@ A estrutura da promisse é semelhante a estrutura do try catch.
 ### Aula 61- Clousures ou fechamentos
 ### Aula 62- Invocação Direta, Call, Apply e Operador New
 ### Aula 63- Menção honrosa aos Callbacks
+### Aula 64- Introdução a manipulação de listas
+### Aula 65- Foreach
+### Aula 66- Filter
+### Aula 67- Map
+### Aula 68- Reduce
+### Aula 68- Join e combinação de funções de manipulação
