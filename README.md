@@ -108,4 +108,4 @@ A estrutura da promisse é semelhante a estrutura do try catch.
 ### Aula 66- Filter
 ### Aula 67- Map
 ### Aula 68- Reduce
-### Aula 68- Join e combinação de funções de manipulação
+### Aula 69- Join e combinação de funções de manipulação
