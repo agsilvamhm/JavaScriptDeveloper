@@ -109,3 +109,8 @@ A estrutura da promisse é semelhante a estrutura do try catch.
 ### Aula 67- Map
 ### Aula 68- Reduce
 ### Aula 69- Join e combinação de funções de manipulação
+## Módulo 13- Assincronismo com Promisses
+### Aula 70- Funcionamento das promisses
+### Aula 71- Manipulando arquivos através de promisses
+### Aula 72- Async e await
+
